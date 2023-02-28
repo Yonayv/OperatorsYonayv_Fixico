@@ -1,0 +1,16 @@
+C:\Users\Emily.fixico\source\repos\OperatorsYonayv_Fixico\OperatorsYonayv_Fixico\bin\Debug\net5.0\OperatorsYonayv_Fixico.exe
+C:\Users\Emily.fixico\source\repos\OperatorsYonayv_Fixico\OperatorsYonayv_Fixico\bin\Debug\net5.0\OperatorsYonayv_Fixico.deps.json
+C:\Users\Emily.fixico\source\repos\OperatorsYonayv_Fixico\OperatorsYonayv_Fixico\bin\Debug\net5.0\OperatorsYonayv_Fixico.runtimeconfig.json
+C:\Users\Emily.fixico\source\repos\OperatorsYonayv_Fixico\OperatorsYonayv_Fixico\bin\Debug\net5.0\OperatorsYonayv_Fixico.runtimeconfig.dev.json
+C:\Users\Emily.fixico\source\repos\OperatorsYonayv_Fixico\OperatorsYonayv_Fixico\bin\Debug\net5.0\OperatorsYonayv_Fixico.dll
+C:\Users\Emily.fixico\source\repos\OperatorsYonayv_Fixico\OperatorsYonayv_Fixico\bin\Debug\net5.0\ref\OperatorsYonayv_Fixico.dll
+C:\Users\Emily.fixico\source\repos\OperatorsYonayv_Fixico\OperatorsYonayv_Fixico\bin\Debug\net5.0\OperatorsYonayv_Fixico.pdb
+C:\Users\Emily.fixico\source\repos\OperatorsYonayv_Fixico\OperatorsYonayv_Fixico\obj\Debug\net5.0\OperatorsYonayv_Fixico.csproj.AssemblyReference.cache
+C:\Users\Emily.fixico\source\repos\OperatorsYonayv_Fixico\OperatorsYonayv_Fixico\obj\Debug\net5.0\OperatorsYonayv_Fixico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emily.fixico\source\repos\OperatorsYonayv_Fixico\OperatorsYonayv_Fixico\obj\Debug\net5.0\OperatorsYonayv_Fixico.AssemblyInfoInputs.cache
+C:\Users\Emily.fixico\source\repos\OperatorsYonayv_Fixico\OperatorsYonayv_Fixico\obj\Debug\net5.0\OperatorsYonayv_Fixico.AssemblyInfo.cs
+C:\Users\Emily.fixico\source\repos\OperatorsYonayv_Fixico\OperatorsYonayv_Fixico\obj\Debug\net5.0\OperatorsYonayv_Fixico.csproj.CoreCompileInputs.cache
+C:\Users\Emily.fixico\source\repos\OperatorsYonayv_Fixico\OperatorsYonayv_Fixico\obj\Debug\net5.0\OperatorsYonayv_Fixico.dll
+C:\Users\Emily.fixico\source\repos\OperatorsYonayv_Fixico\OperatorsYonayv_Fixico\obj\Debug\net5.0\ref\OperatorsYonayv_Fixico.dll
+C:\Users\Emily.fixico\source\repos\OperatorsYonayv_Fixico\OperatorsYonayv_Fixico\obj\Debug\net5.0\OperatorsYonayv_Fixico.pdb
+C:\Users\Emily.fixico\source\repos\OperatorsYonayv_Fixico\OperatorsYonayv_Fixico\obj\Debug\net5.0\OperatorsYonayv_Fixico.genruntimeconfig.cache
